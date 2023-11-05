@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class oculus_button_test : MonoBehaviour
 {
-    private bool leftAButtonPressed = false;
-    private bool leftBButtonPressed = false;
-    private bool rightAButtonPressed = false;
-    private bool rightBButtonPressed = false;    void Start()
+    // private bool leftAButtonPressed = false;
+    // private bool leftBButtonPressed = false;
+    // private bool rightAButtonPressed = false;
+    // private bool rightBButtonPressed = false;    
+    void Start()
     {
         
     }
